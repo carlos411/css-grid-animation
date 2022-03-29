@@ -1,7 +1,3 @@
----
-description: 張互賓 Carlos Chang
----
-
 # 1.1 講者簡介
 
 ## 現況
