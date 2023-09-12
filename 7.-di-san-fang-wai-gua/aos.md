@@ -144,6 +144,7 @@ AOS.init();
 [data-aos="my-blink-animation"].aos-animate{
   animation-name: blink_animation;
   animation-duration: 1s;
+  animation-iteration-count: infinite;
 }
 ```
 
